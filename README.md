@@ -21,9 +21,3 @@ Key Features:
 - Manages access control and authentication through Azure Active Directory (Azure AD).
 - Implements backup and disaster recovery mechanisms.
 
-Getting Started:
-
-Clone this repository to your local machine.
-Follow the README instructions to set up and configure your Azure environment.
-Use Terraform to deploy the infrastructure by running the provided scripts.
-Deploy your web application code to the provisioned infrastructure.
